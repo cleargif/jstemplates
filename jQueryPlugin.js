@@ -1,4 +1,4 @@
-/*global $, window, CanvasLoader, jQuery, doLogging */
+/*global $, window, CanvasLoader, jQuery */
 /*jslint browser:true, devel:true */
 
 (function ($, undefined) {
